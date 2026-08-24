@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/rajratanpcu/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/rajratanpcu/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajratanpcu/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1872-stone-game-viii](https://github.com/rajratanpcu/DSA/tree/master/1872-stone-game-viii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rajratanpcu/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/rajratanpcu/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1872-stone-game-viii](https://github.com/rajratanpcu/DSA/tree/master/1872-stone-game-viii) |
 ## Quicksort
 |  |
 | ------- |
@@ -59,4 +61,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/rajratanpcu/DSA/tree/master/0904-fruit-into-baskets) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rajratanpcu/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+## Math
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/rajratanpcu/DSA/tree/master/1872-stone-game-viii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/rajratanpcu/DSA/tree/master/1872-stone-game-viii) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/rajratanpcu/DSA/tree/master/1872-stone-game-viii) |
+## Game Theory
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/rajratanpcu/DSA/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/rajratanpcu/DSA/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
