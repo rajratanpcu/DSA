@@ -1,0 +1,31 @@
+class Solution {
+    void segregate0and1(int[] arr) {
+        int left = 0, right = arr.length - 1;
+
+        while (left < right) {
+            // Move left forward if it's already 0
+            while (arr[left] == 0 && left < right) left++;
+
+            // Move right backward if it's already 1
+            while (arr[right] == 1 && left < right) right--;
+
+            // Swap
+            if (left < right) {
+                arr[left] = 0;
+                arr[right] = 1;
+                left++;
+                right--;
+            }
+        }
+    }
+
+    public static void main(String[] args) {
+        Solution sol = new Solution();
+        int[] arr = {0,1,0,1,0,0,1,1,1,0};
+        sol.segregate0and1(arr);
+
+        for (int num : arr) {
+            System.out.print(num + " ");
+        }
+    }
+}
