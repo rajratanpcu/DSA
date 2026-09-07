@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/rajratanpcu/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/rajratanpcu/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/rajratanpcu/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rajratanpcu/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajratanpcu/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/rajratanpcu/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/rajratanpcu/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rajratanpcu/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rajratanpcu/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0904-fruit-into-baskets](https://github.com/rajratanpcu/DSA/tree/master/0904-fruit-into-baskets) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rajratanpcu/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rajratanpcu/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/rajratanpcu/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rajratanpcu/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/rajratanpcu/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
@@ -107,5 +110,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rajratanpcu/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rajratanpcu/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/rajratanpcu/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
