@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/rajratanpcu/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/rajratanpcu/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajratanpcu/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/rajratanpcu/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rajratanpcu/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/rajratanpcu/DSA/tree/master/1872-stone-game-viii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rajratanpcu/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rajratanpcu/DSA/tree/master/0053-maximum-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/rajratanpcu/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rajratanpcu/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/rajratanpcu/DSA/tree/master/1872-stone-game-viii) |
 ## Minimax
