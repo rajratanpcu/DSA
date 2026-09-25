@@ -9,7 +9,6 @@ public class Solution {
         for (int right = 0; right < n; right++) {
             freq.put(fruits[right], freq.getOrDefault(fruits[right], 0) + 1);
 
-            // shrink window if more than 2 fruit types
             while (freq.size() > 2) {
                 int leftFruit = fruits[left];
                 freq.put(leftFruit, freq.get(leftFruit) - 1);
